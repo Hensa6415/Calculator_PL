@@ -1,0 +1,10 @@
+D:\1\1. Data\Tugas Smt3\PMROGL\Calculator6415\CalculatoApp\bin\Debug\CalculatoApp.exe.config
+D:\1\1. Data\Tugas Smt3\PMROGL\Calculator6415\CalculatoApp\bin\Debug\CalculatoApp.exe
+D:\1\1. Data\Tugas Smt3\PMROGL\Calculator6415\CalculatoApp\bin\Debug\CalculatoApp.pdb
+D:\1\1. Data\Tugas Smt3\PMROGL\Calculator6415\CalculatoApp\obj\Debug\CalculatoApp.csproj.AssemblyReference.cache
+D:\1\1. Data\Tugas Smt3\PMROGL\Calculator6415\CalculatoApp\obj\Debug\CalculatoApp.Form1.resources
+D:\1\1. Data\Tugas Smt3\PMROGL\Calculator6415\CalculatoApp\obj\Debug\CalculatoApp.Properties.Resources.resources
+D:\1\1. Data\Tugas Smt3\PMROGL\Calculator6415\CalculatoApp\obj\Debug\CalculatoApp.csproj.GenerateResource.cache
+D:\1\1. Data\Tugas Smt3\PMROGL\Calculator6415\CalculatoApp\obj\Debug\CalculatoApp.csproj.CoreCompileInputs.cache
+D:\1\1. Data\Tugas Smt3\PMROGL\Calculator6415\CalculatoApp\obj\Debug\CalculatoApp.exe
+D:\1\1. Data\Tugas Smt3\PMROGL\Calculator6415\CalculatoApp\obj\Debug\CalculatoApp.pdb
